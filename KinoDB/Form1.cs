@@ -19,7 +19,7 @@ namespace KinoDB
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //
         }
         StreamWriter to_file;
         Label[,] _arr = new Label[4, 4];
